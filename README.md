@@ -16,4 +16,4 @@
 4. Start the Docker containers:
   docker-compose up
 5. Once the containers are up and running, open a web browser and visit http://localhost:9000/persons to access the frontend application.
-  Note: Ensure that port 3000 is not being used by any other application on your machine.
+  Note: Ensure that port 9000 and port 3000 is not being used by any other application on your machine.
