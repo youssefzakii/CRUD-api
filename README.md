@@ -1,6 +1,6 @@
 # CRUD-api
-# Hey this is an RESTful API with CRUD built using node Js
-# With basic Clint-Side 
+ Hey this is an RESTful API with CRUD built using node Js
+ With basic Clint-Side 
 
 # Prerequistes 
 - Docker 
