@@ -1,0 +1,13 @@
+version: '2.1'
+
+services:
+  frontend:
+    build: cloudfront/.
+    ports: 
+      - "9000:9000"
+    links: 
+        - backend
+  backend:
+    build: cloudapi/.
+    ports: 
+      - "3000:3000"
